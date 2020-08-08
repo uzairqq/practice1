@@ -7,10 +7,10 @@ function App() {
     <div className="App">
       <h1>Student Information</h1>
 
-      <StudentList name="uzair" fname="iqbal" age="26" gender="Male" />
+      <StudentList name="uzair" fname="iqbal" age="30" gender="Male" />
       <br />
       <br />
-      <StudentList name="laraib" fname="iqbal" age="32" gender="Male" />
+      <StudentList name="laraib" fname="iqbal" age="34" gender="Male" />
       <br />
       <br />
       <StudentList name="iman" fname="khalid" age="40" gender="Female" />
